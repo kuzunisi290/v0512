@@ -21,6 +21,8 @@ namespace v0512
         {
             int a = 0;
             MessageBox.Show(""+(10/5));
+            mybutton.Text = "押された";
+
         }
     }
 }
